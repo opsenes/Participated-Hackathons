@@ -12,9 +12,6 @@ List of hackathons that I participated as OrcaTeam
 - [Code-Android](https://github.com/team-orca/Passolig-Hackathon-Android)
 - [Results](https://twitter.com/STAGECoPlatform/status/810583820743352321)
 
-## BNP Paribas International Hackathon 2016
-- Looking for resources.
-
 ## Speed Hackathon Renewable Energy 2016
 - [Website](https://www.hackevents.co/hackathon/turkey/izmir/1629-speed-hackathon-renewable-energy-2016)
 - [Code](https://github.com/team-orca/Speed-Hackathon-Renewable-Energy-2016)
